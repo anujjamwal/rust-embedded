@@ -4,4 +4,7 @@ members = [
   'embed',
   'rtos',
   'blinky',
+  'emio',
+  'hal',
+  'examples',
 ]
